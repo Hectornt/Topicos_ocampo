@@ -1,4 +1,4 @@
-package Quizz;
+package com.Ejercicios;
 
 import java.awt.EventQueue;
 
